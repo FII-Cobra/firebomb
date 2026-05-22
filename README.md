@@ -16,9 +16,9 @@ sudo apt install git
 
 sudo apt install python3
 
-git clone:
+git clone:https://github.com/FII-Cobra/firebomb.git
 
-cd
+cd firebomb
 
 python3 FireBomb.py
 
