@@ -22,7 +22,7 @@ cd
 
 python3 FireBomb.py
 
-final README:
+final:
 
 1) your ip is not visible if you use the tool, but make sure don't send the link
  with your real SMS or phone number
@@ -32,3 +32,4 @@ final README:
 3) The script doesn't works if the target use Smartphone for open the link.
 
 Thanks to ryle-barak and Naranjo15pro to contributing.
+
